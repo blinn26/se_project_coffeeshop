@@ -1,27 +1,13 @@
-*Header*
-Menu
-Recipes
-Book a table
-Contacts
+---
 
-Specialty coffee in the Practicum Library
-Welcome to our study zone! We've got the coffee to energize you and the cozy vibes to help you get creative. 
-
-Hours:
-Monday – Friday (10:00 – 19:00)
-Saturday – Sunday (11:00 – 18:00)
-
-200 Success Avenue, The Town of Practicum
-
-___________________________
-*Section: Menu*
+_Section: Menu_
 Menu
 We brew coffee from locally roasted, Fairtrade certified beans and use biodegradable cups. All teas from our collection are $2/cup.
 
 Filter
 Regular (12 oz) $1
-Large (16 oz) $1.25 
-XL (20 oz) $1.5 
+Large (16 oz) $1.25
+XL (20 oz) $1.5
 Party-size (24 oz, decaf) $1.75
 Iced Coffee (16 oz) $1.25
 
@@ -39,8 +25,9 @@ Blue Velvet Cake $3.75
 Web Cookie $2
 Fresh Bug’uette $0.25
 
-___________________________
-*Section: Recipes*
+---
+
+_Section: Recipes_
 Recipes
 Check out some recipes we've collected for your home-brewing convenience:
 
@@ -49,26 +36,28 @@ Aeropress recipe
 French press recipe
 ~15 min
 
-___________________________
-*Section: Reservation*
+---
+
+_Section: Reservation_
 Book a table
 
-Name *
-Number of guests *
-Date & time *
-Your email *
+Name _
+Number of guests _
+Date & time _
+Your email _
 
 Book a table
 
 I agree with the terms of use
 
-*Placeholders*
+_Placeholders_
 Name Surname
 1-8
 email@email.com
 
-___________________________
-*Section: About the coffee shop*
+---
+
+_Section: About the coffee shop_
 About the coffee shop
 
 Our coffee shop is located in the Practicum Library's hall. It features 6 tables and free WiFi.
@@ -77,8 +66,9 @@ Our main mission is keeping guests cozy and energized.
 
 Besides that, we try to reduce our environmental impact — so we don't sell single-use cups. But you can buy one of our reusable cups!
 
-___________________________
-*Footer*
+---
+
+_Footer_
 Social media
 Facebook
 Instagram
