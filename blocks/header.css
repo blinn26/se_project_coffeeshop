@@ -11,3 +11,24 @@
     z-index: 1;
 }
 
+.header__title {
+    font-family: "Inter", Arial, sans-serif;
+    max-width: 729px;
+    font-weight: 500;
+    line-height: 72px;
+    font-size: 60px;
+    margin-bottom: 28px;
+    margin-top: 202px;
+    margin-left: 80px;
+
+}
+
+.header__span-accent {
+    font-style: italic;
+    color: #2f80ed;
+    display: block;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 72px;
+    font-family: "Noto Serif", "Times New Roman", serif;
+}
