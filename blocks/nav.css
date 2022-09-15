@@ -1,6 +1,6 @@
 .nav {
     display: flex;
-    align-items:flex-start;
+    align-items:baseline;
     justify-content:flex-end;
     margin-right: 80px;
 
@@ -14,7 +14,6 @@
         text-decoration: none;
         color: #000000;
         font-size: 16px;
-        transition: color 0.25s ease-in-out;
 
 }
 
@@ -22,12 +21,13 @@
     align-items: center;
     display: flex;
     list-style: none;
-    padding-right: 80px;
-    padding-top: 30px;
+    padding-left: 0;
+    margin-top: 30px;
     column-gap: 20px;
    
 }
     
 .nav__link:hover {
     color: #2f80ed;
+    transition: color 0.50s ease-in-out;
 }

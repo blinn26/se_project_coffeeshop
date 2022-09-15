@@ -32,3 +32,43 @@
     line-height: 72px;
     font-family: "Noto Serif", "Times New Roman", serif;
 }
+
+.header__description {
+    max-width: 683px;
+    margin: 28px 0 0 80px;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "Noto serif", "Times New Roman", serif;
+
+}
+
+.header__image {
+    position: absolute;
+    z-index: -1;
+    width: 646px;
+    height: 568px;
+    top: 124px;
+    right: 5px;
+}
+
+.header__paragraph {
+    margin: 0;
+    color: #6f6f6f;
+    font-family: "Inter", Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.header__footer {
+    position: absolute;
+    align-items: flex-end;
+    justify-content: space-between;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    padding: 0 80px;
+    bottom: 40px;
+}
