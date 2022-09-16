@@ -1,6 +1,8 @@
 .card {
     max-width: 600px;
     width: 50%;
+    width: calc(50% -20px);
+    box-sizing: border-box;
 
 }
 
@@ -13,8 +15,16 @@
     line-height: 30px;
     padding-bottom: 32px;
     font-size: 20px;
+}
+
+.card__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 
 }
+
+
 
 .card__list-item {
     display: flex;
@@ -29,9 +39,7 @@
 }
 
 .card__list-divider {
+    border-bottom: 1px solid #ffffff;
     flex-grow: 1;
-    background-color: #ffffff;
-    height: 1px;
-    min-width: 3px;
 
 }
