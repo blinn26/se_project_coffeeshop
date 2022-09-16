@@ -1,7 +1,6 @@
 .card {
     max-width: 600px;
-    width: 50%;
-    width: calc(50% -20px);
+    flex-basis: 50%;
     box-sizing: border-box;
 
 }
