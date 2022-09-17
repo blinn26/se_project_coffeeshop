@@ -2,3 +2,22 @@
     background: #D9E7FF url(../images/background_reservation.svg) no-repeat center/cover;
     padding-bottom: 120px;
 }
+
+.reservation__form {
+    margin: auto;
+    max-width: 385px;
+
+}
+
+.reservation__title {
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: "Inter", Arial, sans-serif;
+    line-height: 52px;
+    margin: 0;
+    font-size: 44px;
+}
