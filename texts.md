@@ -1,22 +1,7 @@
 ---
 ---
 
-_Section: Reservation_
-Book a table
-
-Name _
-Number of guests _
-Date & time _
-Your email _
-
-Book a table
-
-I agree with the terms of use
-
-_Placeholders_
-Name Surname
-1-8
-email@email.com
+\_
 
 ---
 
