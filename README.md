@@ -11,7 +11,6 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 - Iframe usage to add Youtube Videos
--
 
 ## Plan on improving the project
 
