@@ -1,19 +1,20 @@
 .nav {
     display: flex;
-    align-items:baseline;
-    justify-content:flex-end;
+    align-items: baseline;
+    justify-content: flex-end;
     margin-right: 80px;
 
 }
 
 .nav__link {
     font-family: "Inter", Arial, sans-serif;
-        font-weight: 500;
-        font-style: normal;
-        line-height: 20px;
-        text-decoration: none;
-        color: #000000;
-        font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+    transition: color 0.50s ease-in-out;
 
 }
 
@@ -24,10 +25,11 @@
     padding-left: 0;
     margin-top: 30px;
     column-gap: 20px;
-   
+    margin-bottom: 0;
+
 }
-    
+
 .nav__link:hover {
     color: #2f80ed;
-    transition: color 0.50s ease-in-out;
+
 }

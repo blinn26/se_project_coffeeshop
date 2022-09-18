@@ -63,7 +63,7 @@
 }
 
 .header__footer {
-    position: absolute;
+    margin-top: auto;
     align-items: flex-end;
     justify-content: space-between;
     box-sizing: border-box;
