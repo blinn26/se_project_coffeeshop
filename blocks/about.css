@@ -1,23 +1,24 @@
 .about {
-background-color:#0A2850;
-display: flex;
-justify-content: space-between;
-position: relative;
-overflow: hidden;
+   background-color: #0A2850;
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+   overflow: hidden;
 
 }
 
 .about__title {
-    font-style: normal;
-    font-size: 44px;
-    max-width: 251px;
-    font-weight: 500;
-    padding-top: 100px;
-    padding-left: 80px;
-    margin: 0;
-    z-index: 1;
-    color:#ffffff;
-    font-family: "Inter", Arial, sans-serif;
+   font-style: normal;
+   font-size: 44px;
+   max-width: 251px;
+   font-weight: 500;
+   padding-top: 100px;
+   padding-left: 80px;
+   margin: 0px;
+   z-index: 1;
+   color: #ffffff;
+   font-family: "Inter", Arial, sans-serif;
+   line-height: 52px;
 
 }
 
@@ -54,25 +55,27 @@ overflow: hidden;
    background-color: #2f80ed;
    width: 426px;
    height: 426px;
-   border-radius: 50px;
+   border-radius: 50%;
 
 }
 
 .about__circle_animation_blurred {
-   animation: pulsate 1.3s ease-in-out 0s infinite; 
+   animation: pulsate 1.3s ease-in-out 0s infinite;
 }
 
 
 
 
 @keyframes pulsate {
- 0% {
-    opacity: 0;
- }
+   0% {
+      opacity: 0;
+   }
+
    50% {
-    opacity: 0.6;
-   } 
+      opacity: 0.6;
+   }
+
    100% {
-    transform: scale(1.2);
+      transform: scale(1.4);
    }
 }
