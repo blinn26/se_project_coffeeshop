@@ -3,6 +3,7 @@ background-color:#0A2850;
 display: flex;
 justify-content: space-between;
 position: relative;
+overflow: hidden;
 
 }
 
@@ -21,14 +22,39 @@ position: relative;
 }
 
 .about__content {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   z-index: 1;
+   padding-top: 119px;
+   padding-bottom: 173px;
+   padding-right: 80px;
+   max-width: 660px;
+
 
 }
 
 .about__paragraph {
+   z-index: 1;
+   color: #ffffff;
+   font-size: 20px;
+   font-weight: normal;
+   line-height: 30px;
+   margin: 0;
+   font-family: "Noto Serif", "Times New Roman", serif;
+
 
 }
 
 .about__circle {
+   top: -152px;
+   left: -129px;
+   position: absolute;
+   z-index: 0;
+   background-color: #2f80ed;
+   width: 426px;
+   height: 426px;
+   border-radius: 50px;
 
 }
 
@@ -39,7 +65,7 @@ position: relative;
 
 
 
-@keyframes pulsate circle {
+@keyframes pulsate {
  0% {
     opacity: 0;
  }
