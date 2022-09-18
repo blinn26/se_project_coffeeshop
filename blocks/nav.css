@@ -1,8 +1,8 @@
 .nav {
     display: flex;
-    align-items: baseline;
+    align-items: flex-end;
     justify-content: flex-end;
-    margin-right: 80px;
+
 
 }
 
@@ -14,7 +14,7 @@
     text-decoration: none;
     color: #000000;
     font-size: 16px;
-    transition: color 0.50s ease-in-out;
+    transition: 0.50s ease-in-out;
 
 }
 
@@ -22,10 +22,12 @@
     align-items: center;
     display: flex;
     list-style: none;
-    padding-left: 0;
-    margin-top: 30px;
+    margin-left: 0px;
+    padding-top: 30px;
     column-gap: 20px;
+    padding-right: 80px;
     margin-bottom: 0;
+
 
 }
 

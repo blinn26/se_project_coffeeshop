@@ -53,17 +53,16 @@
 }
 
 .header__paragraph {
-    margin: 0;
     color: #6f6f6f;
     font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
+    margin-bottom: 0px;
 }
 
 .header__footer {
-    margin-top: auto;
     align-items: flex-end;
     justify-content: space-between;
     box-sizing: border-box;
@@ -71,4 +70,5 @@
     width: 100%;
     padding: 0 80px;
     bottom: 40px;
+    position: absolute;
 }
