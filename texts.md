@@ -1,12 +1,3 @@
----
----
-
-\_
-
----
-
----
-
 _Footer_
 Social media
 Facebook
