@@ -33,10 +33,14 @@
     font-size: 16px;
     line-height: 20px;
     font-family: "Noto Serif", "Times New Roman", serif;
-    margin-top: 16px;
-
 
 }
+
+.card__list-item:first-of-type {
+    margin-top: 16px;
+}
+
+
 
 .card__list-divider {
     border-bottom: 1px solid #ffffff;
