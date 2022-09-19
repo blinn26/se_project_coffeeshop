@@ -2,8 +2,6 @@
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-
-
 }
 
 .nav__link {
@@ -14,8 +12,7 @@
     text-decoration: none;
     color: #000000;
     font-size: 16px;
-    transition: 0.50s ease-in-out;
-
+    transition: 0.5s ease-in-out;
 }
 
 .nav__links {
@@ -26,12 +23,9 @@
     padding-top: 30px;
     column-gap: 20px;
     padding-right: 80px;
-    margin-bottom: 0;
-
-
+    margin-top: 0;
 }
 
 .nav__link:hover {
     color: #2f80ed;
-
 }
