@@ -66,3 +66,7 @@
     margin-right: 12px;
     border-radius: 2px;
 }
+
+.form__label:last-child {
+    align-self: center;
+}
